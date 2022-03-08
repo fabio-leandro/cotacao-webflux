@@ -2,11 +2,12 @@
 
 <p>API de Cotações.</p>
 
-Referência: Mentoria Digital Innovation One
-Link: https://web.dio.me/labs
-Mentora: Ana Beatriz Neri
+<p>Referência: Mentoria Digital Innovation One</p>
+<p>Link: https://web.dio.me/labs</p>
+<p>Mentora: Ana Beatriz Neri</p>
 
 <dt>
+  Tecnologias:
   <li>SpringBoot WebFlu</li>
   <li>Maven</li>
   <li>Spring Data MongoDb Reactive</li>
