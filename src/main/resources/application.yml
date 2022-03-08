@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: root
+      password: maddytec
+      database: cotacao_db
+      port: 27017
+      host: localhost
+
+server:
+  port : 8080
