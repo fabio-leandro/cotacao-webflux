@@ -8,7 +8,7 @@
 
 <dt>
   Tecnologias:
-  <li>SpringBoot WebFlu</li>
+  <li>SpringBoot WebFlux</li>
   <li>Maven</li>
   <li>Spring Data MongoDb Reactive</li>
   <li>Lombok</li>
